@@ -145,7 +145,7 @@ The interface is optimized for customers and vendors using smartphones.
 
 ## 🌐 Live Demo
 
-https://demand2-market.vercel.app
+[deman2-market.vercel.app](https://demand2-market.vercel.app/)
 
 ---
 
