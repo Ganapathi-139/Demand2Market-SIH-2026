@@ -3,7 +3,7 @@
 ## Live Application
 
 **Live URL:**
-[deman2-market.vercel.app](https://demand2-market.vercel.app/)
+[demand2-market.vercel.app](https://demand2-market.vercel.app/)
 
 ---
 
