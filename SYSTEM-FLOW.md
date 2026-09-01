@@ -25,10 +25,10 @@
           +--------+--------+
           |                 |
           v                 v
-   Demand Forecast     Quality Data
+    Demand Forecast     Quality Data
           |                 |
           v                 v
- Vendor Dashboard     AI Analysis
+    Vendor Dashboard     AI Analysis
           |                 |
           +--------+--------+
                    |
